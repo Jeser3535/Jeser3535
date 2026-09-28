@@ -13,7 +13,6 @@
 ```
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=36BCF7&width=435&lines=HARD+SKILLS" alt="Header" />
 
 
 <h2>Programming and Languages</h3>
