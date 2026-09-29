@@ -23,6 +23,7 @@
       <li>C#</li>
       <li>JavaScript</li>
       <li>mySQL</li>
+      <li>PHP</li>
 </ul>
 
 <h2>Contacts</h3>
